@@ -65,7 +65,7 @@ echo Please wait...
 cd ..
 cd ..
 title Running as Administrator & cd Windows\System32
-title Activating... - 0%%  & slmgr /upk %0.5
+title Activating... - 0%%  & slmgr /upk %0,5
 title Activating... - 0%%  & slmgr /ipk %1
 title Activating... - 33%% & slmgr /skms kms8.msguides.com
 title Activating... - 66%% & slmgr /ato
