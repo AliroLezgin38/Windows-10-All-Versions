@@ -16,8 +16,11 @@ Windows Versions :
 
 For activating your Windows 10 follow the steps :
 Step 1. Save file as activator.bat
+
 Step 2. Run the file and wait for activating
+
 Step 3. After successful activation, restart the computer .
+
 
 If you encounter a problem, contact us on github
 
