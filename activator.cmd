@@ -65,15 +65,18 @@ echo Please wait...
 cd ..
 cd ..
 title Running as Administrator & cd Windows\System32
-title Activating... - 0%%  & slmgr /upk %0,5
-title Activating... - 0%%  & slmgr /ipk %1
+title Activating... - 0%%  & slmgr /upk %1
+title Activating... - 1%%  & slmgr /ipk 
 title Activating... - 33%% & slmgr /skms kms8.msguides.com
 title Activating... - 66%% & slmgr /ato
 title Windows 10 Activator
 echo ======================================================================
 cls
 echo ======================================================================
+title Activated - 100%
 echo Windows activated successfully!
+echo If you encounter a problem, contact us on github .
+echo After successful activation,please restart the computer !
 echo If it isn't, try to choose diffrent version from the menu of this program.
 echo ======================================================================
 echo Press any key to quit...
