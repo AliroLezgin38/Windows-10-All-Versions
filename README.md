@@ -15,6 +15,8 @@ Windows Versions :
 11. Enterprise N
 
 For activating your Windows 10 follow the steps :
+
+
 Step 1. Save file as activator.bat
 
 Step 2. Run the file and wait for activating
